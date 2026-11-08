@@ -1,0 +1,12 @@
+.venv/
+data/
+__pycache__/
+.ipynb_checkpoints/
+.env
+.env.*
+.DS_Store
+.idea/
+.vscode/
+*.pem
+*.key
+ipl-chase/
